@@ -1,0 +1,34 @@
+{
+  "technology": [
+    {
+      "id": 123,
+      "category": "UI",
+      "title": "VueJS",
+      "description": "VueJS framework",
+      "location": "Pune",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "founder": "Evan"
+    },
+    {
+      "id": 456,
+      "category": "Backend",
+      "title": "NodeJS",
+      "description": "Express framework",
+      "location": "Mumbai",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "founder": "Ryan"
+    },
+    {
+      "id": 789,
+      "category": "Database",
+      "title": "MongoDB",
+      "description": "Moongose ORM",
+      "location": "Delhi",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "founder": "David"
+    }
+  ]
+}
